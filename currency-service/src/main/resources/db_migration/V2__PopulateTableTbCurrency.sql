@@ -5,4 +5,4 @@ INSERT INTO tb_currency (source_currency, target_currency, conversion_rate) VALU
   ('USD', 'ARS', 92.56),
   ('USD', 'CLP', 713.30),
   ('USD', 'COP', 3665.00),
-  ('USD', 'MXN', 20.15)
+  ('USD', 'MXN', 20.15);
