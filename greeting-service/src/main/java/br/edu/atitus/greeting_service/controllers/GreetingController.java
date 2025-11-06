@@ -13,7 +13,7 @@ import br.edu.atitus.greeting_service.configs.GreetingConfig;
 import br.edu.atitus.greeting_service.dtos.GreetingDTO;
 
 @RestController
-@RequestMapping("greeting")
+@RequestMapping("greeting-service")
 public class GreetingController {
 	
 	//@Value("${greeting-service.greeting}")
